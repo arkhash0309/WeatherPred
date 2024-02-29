@@ -1,6 +1,8 @@
-# WeatherPred
-<p>Predicting weather conditions in Colombo, Sri Lanka with datasets from the Meteorology Department of Sri Lanka.</p>
+<h1>Prediction of Weather using Machine Learning and Deep Learning Techniques</h1>
+
+<p>Weather conditions in Colombo, Sri Lanka have been predicted using deep learning models such as:</p>
+<li>Random Forest Model</li>
+<li>Artificial Neural Network(ANN)</li>
+<li>Recurrent Neural Network</li>
 </b>
-<p>The prediction has been done with the use of Machine Learning and Deep Learning. </p>
-</b>
-<p>Machine Learning is demonstrated with the use of the Random Forest Classifier and the Random Forest Classifier Model. Meanwhile Deep Learning is displayed by the Artificial Neural Network which is a regression model by default.</p>
+<p>Through this I learnt about the architecture and the different techniques which could be used to come up with an efficient model.</p>
